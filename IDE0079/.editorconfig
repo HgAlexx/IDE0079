@@ -1,0 +1,6 @@
+
+root = true
+
+[*]
+dotnet_diagnostic.CA1000.severity = suggestion
+dotnet_diagnostic.IDE0079.severity = error
